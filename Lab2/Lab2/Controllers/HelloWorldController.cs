@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using System.Text.Encodings.Web;
 
 namespace Lab2.Controllers
 {
@@ -12,8 +13,8 @@ namespace Lab2.Controllers
         {
             return "This is my default action ...";
         }
-        public string Welcome() {
-            return "This is the Welcome action method ...";
+        public string Welcome(string name , int numTimes = 1) {
+            return HtmlEncoder.Default.Encode($"Hello {name}, NumTime is : {numTimes}");
         }
 
     }

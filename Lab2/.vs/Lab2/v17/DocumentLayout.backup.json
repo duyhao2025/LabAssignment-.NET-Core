@@ -9,6 +9,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{58129970-B3A6-4569-8964-6F9E4D6EBE11}|Lab2\\Lab2.csproj|d:\\labassignment-.net-core\\lab2\\lab2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{58129970-B3A6-4569-8964-6F9E4D6EBE11}|Lab2\\Lab2.csproj|solutionrelative:lab2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58129970-B3A6-4569-8964-6F9E4D6EBE11}|Lab2\\Lab2.csproj|d:\\labassignment-.net-core\\lab2\\lab2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58129970-B3A6-4569-8964-6F9E4D6EBE11}|Lab2\\Lab2.csproj|solutionrelative:lab2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58129970-B3A6-4569-8964-6F9E4D6EBE11}|Lab2\\Lab2.csproj|d:\\labassignment-.net-core\\lab2\\lab2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{58129970-B3A6-4569-8964-6F9E4D6EBE11}|Lab2\\Lab2.csproj|solutionrelative:lab2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,17 +26,42 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\LabAssignment-.NET-Core\\Lab2\\Lab2\\Program.cs",
+              "RelativeDocumentMoniker": "Lab2\\Program.cs",
+              "ToolTip": "D:\\LabAssignment-.NET-Core\\Lab2\\Lab2\\Program.cs",
+              "RelativeToolTip": "Lab2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T10:32:19.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\LabAssignment-.NET-Core\\Lab2\\Lab2\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Lab2\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\LabAssignment-.NET-Core\\Lab2\\Lab2\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Lab2\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-01T10:31:36.147Z"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "HelloWorldController.cs",
               "DocumentMoniker": "D:\\LabAssignment-.NET-Core\\Lab2\\Lab2\\Controllers\\HelloWorldController.cs",
               "RelativeDocumentMoniker": "Lab2\\Controllers\\HelloWorldController.cs",
-              "ToolTip": "D:\\LabAssignment-.NET-Core\\Lab2\\Lab2\\Controllers\\HelloWorldController.cs",
-              "RelativeToolTip": "Lab2\\Controllers\\HelloWorldController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA7AAAAAAAAAA==",
+              "ToolTip": "D:\\LabAssignment-.NET-Core\\Lab2\\Lab2\\Controllers\\HelloWorldController.cs*",
+              "RelativeToolTip": "Lab2\\Controllers\\HelloWorldController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-01T10:17:03.052Z",
               "EditorCaption": ""

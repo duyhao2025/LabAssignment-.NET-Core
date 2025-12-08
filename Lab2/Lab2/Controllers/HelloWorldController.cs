@@ -13,8 +13,8 @@ namespace Lab2.Controllers
         {
             return "This is my default action ...";
         }
-        public string Welcome(string name , int numTimes = 1) {
-            return HtmlEncoder.Default.Encode($"Hello {name}, NumTime is : {numTimes}");
+        public string Welcome(string name , int ID = 1) {
+            return HtmlEncoder.Default.Encode($"Hello {name}, ID = {ID}");
         }
 
     }
